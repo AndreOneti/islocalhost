@@ -3,15 +3,15 @@
 
 ### Installation
 
-`npm i isLocalhost`
+`npm i @andreoneti/islocalhost`
 or
-`yarn add isLocalhost`
+`yarn add @andreoneti/islocalhost`
 
 
 ### Use
 
 ```javascript
-const { isLocalhost } = require('isLocalhost');
+const { isLocalhost } = require('@andreoneti/islocalhost');
 
 isLocalhost("localhost");             // true
 isLocalhost("127.0.0.1");             // true
