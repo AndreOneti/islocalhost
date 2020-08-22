@@ -1,6 +1,6 @@
 {
   "name": "@andreoneti/islocalhost",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Verification if url is localhost or not.",
   "main": "index.js",
   "scripts": {

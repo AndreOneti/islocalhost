@@ -21,7 +21,7 @@ isLocalhost("google.com");            // false
 OR
 
 ```javascript
-import { isLocalhost } from 'isLocalhost';
+import { isLocalhost } from '@andreoneti/islocalhost';
 
 isLocalhost("localhost");             // true
 isLocalhost("127.0.0.1");             // true
